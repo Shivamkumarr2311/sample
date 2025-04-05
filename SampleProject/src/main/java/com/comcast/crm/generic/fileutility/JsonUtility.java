@@ -19,5 +19,7 @@ public class JsonUtility {
 		String data =(String) jobj.get(key);
 		return data; 
 	}
-
+	//some code added from manasa
+        JSONParser jobj1=new JSONParser();
+        String data1=(String)jobj1.toString();
 }
