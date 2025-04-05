@@ -107,6 +107,28 @@ public class CreateOrgTest extends Baseclass {
 			System.out.println(actIndustryType + " " + "is not verifed====FAIL=====");
 
 		}
+
 //ele1 added by shivam
+
+		
+		
+		// Element added by sanu
+
+	
 	}
+	
+	
+	@Test
+	public void gitHubTest() 
+	{
+		
+		System.out.println("GitHub Pull request");
+		
+
+	}
+	
+	
+	
+
+	
 }
