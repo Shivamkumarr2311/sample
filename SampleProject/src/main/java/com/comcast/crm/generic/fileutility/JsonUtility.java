@@ -19,7 +19,20 @@ public class JsonUtility {
 		String data =(String) jobj.get(key);
 		return data; 
 	}
+
 	
 	
 //ele 2 added by shivam  kumar  
+
+
+	//some code added from manasa
+        JSONParser jobj1=new JSONParser();
+        String data1=(String)jobj1.toString();
+        return data1;
+
+	
+	//element added by Ahmed  
+
+
+
 }

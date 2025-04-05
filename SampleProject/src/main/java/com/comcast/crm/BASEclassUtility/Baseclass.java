@@ -54,6 +54,9 @@ public class Baseclass {
 	@BeforeTest(groups = {"SmokeTest","RegressionTest"})
 				public void beforetest()
 				{
+		System.out.println("code1");
+		System.out.println("code2");
+	
 					
 				}
 	
@@ -115,8 +118,9 @@ public class Baseclass {
 					// hp.logout();
 					hp.getsignout().click();
 					hp.getsignoutlink().click();	
-					
-					
+										
+
+					System.out.println("Changes made by Nagmani");
 					
 					
 					
@@ -145,9 +149,14 @@ public class Baseclass {
 					}
 	
 
+
+
 	//changed by shivam
+
 
 	//base class updated by sanu
 
 
+	
+	//added 3 lines of code Manasa
 }

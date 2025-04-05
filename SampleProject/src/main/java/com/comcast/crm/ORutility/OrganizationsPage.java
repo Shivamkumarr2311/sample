@@ -21,7 +21,7 @@ public class OrganizationsPage {
 	//==================storing all elements of Organization page using @FindBy================
 	
 	
-							@FindBy(xpath = "//img[@src='themes/softed/images/btnL3Add.gif']") //themes/softed/images/btnL3Add.gif
+							@FindBy(xpath = "//themes/softed/images/btnL3Add.gif") //themes/softed/images/btnL3Add.gif
 							private WebElement orgimg;
 	
 	
