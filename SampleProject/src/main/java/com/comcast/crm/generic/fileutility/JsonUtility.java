@@ -22,5 +22,23 @@ public class JsonUtility {
 	
 	 // code added by Nagamani
 
+
 	 //Code added on 5/4/25
+
+	
+	
+//ele 2 added by shivam  kumar  
+
+
+	//some code added from manasa
+        JSONParser jobj1=new JSONParser();
+        String data1=(String)jobj1.toString();
+        return data1;
+
+	
+	//element added by Ahmed  
+
+
+
+
 }
