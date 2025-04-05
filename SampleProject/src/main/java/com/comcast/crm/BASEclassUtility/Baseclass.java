@@ -54,6 +54,9 @@ public class Baseclass {
 	@BeforeTest(groups = {"SmokeTest","RegressionTest"})
 				public void beforetest()
 				{
+		System.out.println("code1");
+		System.out.println("code2");
+	
 					
 				}
 	
@@ -144,4 +147,6 @@ public class Baseclass {
 						//report.flush();	
 					}
 
+	
+	//added 3 lines of code Manasa
 }
